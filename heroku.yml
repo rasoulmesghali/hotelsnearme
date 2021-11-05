@@ -1,0 +1,5 @@
+build:
+  docker:
+    web: /Backend_Django/Dockerfile
+run:
+  web: /app/initiator.sh
